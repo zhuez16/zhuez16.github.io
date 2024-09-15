@@ -60,5 +60,5 @@ Work experience
 Other Interests
 ======
 * Magic The Gathering. (I won the 1st place in MTA Legacy Championship in Hefei, 2020. Also I was the vice president of USTC MTG club for the 2021 academic year)
-* Rhythm Games including Maimai(14300 rating in Maimai Universe+), OSU(2500pp in standard), Project Sekai (Rating 28.9).
+* Rhythm Games including Maimai(15500 rating in Maimai Buddies), OSU(2500pp in standard), Project Sekai (Rating 28.9).
 * Overwatch. (Diamond 3 in role Competitive, Diamond 1 in Squad Competitive.)
