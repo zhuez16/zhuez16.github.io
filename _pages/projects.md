@@ -9,15 +9,21 @@ author_profile: true
 
 # Ongoing Projects
 
-Graph Contraction Algorithms
+Parallel Dead State Detection
+======
+Supervisor: Prof. Caleb Stanford
+* A type 3 algorithm (framework given by paper parallel incremental algorithm) that has almost linear work and reasonable good span.
+* Achieve good experimental result in practice, compared with sequential solution.
+
+# Previous Projects
+
+Graph Contraction Algorithms (Published work in ICS 2025)
 ======
 Supervisor: Prof. Yihan Sun
 * An efficient preprocess algorithm that creates shortcuts for large diameter graphs.
 * Significantly boost the parallel SSSP algorithm by decreasing the total spam in parallel algorithms.
 
-# Previous Projects
-
-Noctua (To appear in EuroSys 24)
+Noctua (Published work in EuroSys 24)
 ======
 Supervisor: Prof. Cheng Li
 * A fully automated verification framework for understanding fine-grained consistency semantics in web applications.
